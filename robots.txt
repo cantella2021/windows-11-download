@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://windows-11-download.herokuapp.com/host-https-ccm.net/sitemap/download/
+Sitemap: https://windows-11-download.herokuapp.com/sitemap.xml
